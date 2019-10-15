@@ -154,6 +154,7 @@ $ npm install vue-image-crop-upload
 | Thai          | th          | godxavia      |
 | Myanmar          | mm          | tintnaingwinn      |
 | Swedish          | se          | hekin1      |
+| Bengali(বাংলা)    | bn          | rintosarkar |
 
 ```js
 // example

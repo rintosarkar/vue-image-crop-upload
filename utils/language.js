@@ -56,6 +56,25 @@ export default {
 			lowestPx: 'Image\'s size is too low. Expected at least: '
 		}
 	},
+	bn: {
+		hint: 'ফাইল আপলোড করতেএখানে ক্লিক করুন বা টেনে আনুন',
+		loading: 'আপলোড হচ্ছে…',
+		noSupported: 'আপনার ব্রাউজারটি তে এই প্লাগিন টি সমর্থন করে না দয়া করে IE১০+ অথবা অন্য ব্রাউজার ব্যবহার করুন।',
+		success: 'আপলোড সম্পন্ন হয়েছে।',
+		fail: 'আপলোড হয়নি।',
+		preview: 'পূর্বরূপ',
+		btn: {
+			off: 'বাতিল',
+			close: 'বন্ধ',
+			back: 'পেছনে',
+			save: 'সংরক্ষণ'
+		},
+		error: {
+			onlyImg: 'শুধুমাত্র চিত্র',
+			outOfSize: 'চিত্রের সাইজ অতিক্রম করেছে: ',
+			lowestPx: 'চিত্রের সাইজ খুব কম।  প্রত্যাশিত সাইজ: '
+		}
+	},
 	ro: {
 		hint: 'Atinge sau trage fișierul aici',
 		loading: 'Se încarcă',
